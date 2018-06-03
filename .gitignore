@@ -1,0 +1,17 @@
+Library
+
+obj
+Temp
+Build
+Builds
+sysinfo.txt
+.vs
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.DS_store
